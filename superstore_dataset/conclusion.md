@@ -15,33 +15,33 @@
 
 ### Gold Member
 
-Maintain engagement with exclusive loyalty programs (VIP access, cashback, reward points).
+- Maintain engagement with exclusive loyalty programs (VIP access, cashback, reward points).
 
-Provide premium product offers and personalized deals to increase repeat purchases.
+- Provide premium product offers and personalized deals to increase repeat purchases.
 
 ### Steady Buyer
 
-Strengthen engagement with personalized email campaigns.
+- Strengthen engagement with personalized email campaigns.
 
-Offer product bundling or upselling to increase profit contribution.
+- Offer product bundling or upselling to increase profit contribution.
 
 ### Growing Customer
 
-Apply onboarding promotions and product recommendations.
+- Apply onboarding promotions and product recommendations.
 
-Use testimonials/educational content to build trust and encourage loyalty.
+- Use testimonials/educational content to build trust and encourage loyalty.
 
 ### Cold Lead
 
-Run reactivation campaigns (“We Miss You” or comeback discounts).
+- Run reactivation campaigns (“We Miss You” or comeback discounts).
 
-Evaluate ROI → if unresponsive, exclude from main marketing targets to save costs.
+- Evaluate ROI → if unresponsive, exclude from main marketing targets to save costs.
 
 ### Uncategorized
 
-Monitor activities regularly.
+- Monitor activities regularly.
 
-Send general promotions (newsletter, discounts), and guide them into loyalty programs once activity increases.
+- Send general promotions (newsletter, discounts), and guide them into loyalty programs once activity increases.
 
 ## **👉 Overall Insight:**
 RFM segmentation allows the company to better identify high-value customers, optimize retention strategies, and minimize churn risk. A targeted approach for each segment will increase marketing efficiency, customer loyalty, and long-term profitability.
